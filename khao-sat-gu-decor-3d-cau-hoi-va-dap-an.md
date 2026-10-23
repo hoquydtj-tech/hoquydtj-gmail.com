@@ -1,450 +1,444 @@
-# Khảo sát nhu cầu lựa chọn quà tặng nhân viên cuối năm 2026 tại TP.HCM
+# Khảo sát nhu cầu và hành vi lựa chọn quà tặng khách hàng của doanh nghiệp
 
-**Form:** GU Decor 3D - Khảo sát quà tặng nhân viên cuối năm 2026
+**Nguồn:** Google Doc "GU DECOR 3D - PROJECT 2", tab "BỘ CÂU HỎI KHẢO SÁT".  
+**Cập nhật vào Google Form bằng:** `thay-cau-hoi-google-form.gs`
 
 ## Lời mở đầu của form
 
-Kính gửi Anh/Chị,  
-GU Decor 3D đang thực hiện khảo sát nhằm tìm hiểu cách các doanh nghiệp tại TP. Hồ Chí Minh lựa chọn quà tặng và hình thức ghi nhận nhân viên dịp cuối năm 2026.  
-Khảo sát tập trung vào trải nghiệm mua hàng đã xảy ra, tiêu chí lựa chọn nhà cung cấp, khó khăn trong quá trình đặt hàng và mức độ phù hợp của các giải pháp quà tặng được thiết kế riêng.  
-Việc tham gia hoàn toàn tự nguyện. Anh/Chị không cần cung cấp tên hoặc thông tin liên hệ để hoàn thành phần nghiên cứu. Ở cuối biểu mẫu, Anh/Chị có thể tự chọn đăng ký tư vấn sản phẩm hoặc tham gia phỏng vấn sâu.  
-Kết quả khảo sát được tổng hợp nhằm phục vụ nghiên cứu nhu cầu, cải thiện sản phẩm và xây dựng nội dung hữu ích. Thông tin liên hệ (nếu được cung cấp) chỉ dùng trong phạm vi đã thông báo và được Anh/Chị đồng ý.  
-Xin trân trọng cảm ơn Anh/Chị đã dành thời gian chia sẻ.  
-Đối tượng: Chủ doanh nghiệp và Procurement có tham gia hoạt động mua quà tặng cho nhân viên tại TP.HCM.  
-Liên hệ nghiên cứu: [CHÈN EMAIL / SỐ LIÊN HỆ THỰC TẾ]  
-Chính sách dữ liệu: [CHÈN ĐƯỜNG DẪN THÔNG BÁO QUYỀN RIÊNG TƯ]  
+GU Decor 3D thực hiện khảo sát nhằm tìm hiểu cách doanh nghiệp lựa chọn quà tặng khách hàng. Khảo sát mất khoảng 7–10 phút. Thông tin chỉ dùng cho mục đích nghiên cứu. Xin trân trọng cảm ơn Anh/Chị!
 
-### Câu 1. Vai trò hiện tại của Anh/Chị trong doanh nghiệp là gì?
+## PHẦN 1: THÔNG TIN VÀ SÀNG LỌC
+
+### Câu 1. Vai trò hiện tại của Anh/Chị tại doanh nghiệp là gì?
 
 *Chọn một · Bắt buộc*
 
-- Chủ doanh nghiệp hoặc đồng chủ sở hữu
-- Nhân sự bộ phận Mua hàng / Procurement
-- Vai trò khác
+- Marketing/Truyền thông.
+- Hành chính/Nhân sự.
+- Mua hàng.
+- Kinh doanh/Chăm sóc khách hàng.
+- Ban giám đốc/Chủ doanh nghiệp.
+- Khác: …
 
-## Phần 2. Khu vực hoạt động của doanh nghiệp
-
-### Câu 2. Anh/Chị có đang tham gia hoạt động mua sắm quà tặng nhân viên cho doanh nghiệp hoạt động tại TP.HCM không?
-
-*Chọn một · Bắt buộc*
-
-- Có
-- Không
-- Chưa rõ
-
-## Phần 3. Quy mô doanh nghiệp và vai trò của Anh/Chị
-
-### Câu 3. Doanh nghiệp hoặc đơn vị Anh/Chị phụ trách có khoảng bao nhiêu nhân viên?
+### Câu 2. Doanh nghiệp của Anh/Chị hoạt động trong lĩnh vực nào?
 
 *Chọn một · Bắt buộc*
 
-- Dưới 20 người
-- 20–49 người
-- 50–99 người
-- 100–299 người
-- 300–499 người
-- Từ 500 người trở lên
-- Không rõ
+- Sản xuất, gia công.
+- Bán lẻ, thương mại điện tử, phân phối đa ngành.
+- Marketing, truyền thông, quảng cáo, tổ chức sự kiện.
+- Giáo dục, đào tạo, tư vấn.
+- Bất động sản, xây dựng, nội thất.
+- Du lịch, lưu trú.
+- Ăn uống, thực phẩm, đồ uống.
+- Y tế, chăm sóc sức khỏe, làm đẹp (spa, salon tóc, massage,...).
+- Tài chính, kế toán, bảo hiểm, pháp lý.
+- Khác: …
 
-### Câu 4. Vai trò chính của Anh/Chị trong quá trình chọn và mua quà tặng nhân viên là gì?
-
-*Chọn một · Bắt buộc*
-
-- Phê duyệt phương án hoặc ngân sách
-- Trực tiếp chọn sản phẩm hoặc nhà cung cấp
-- Tìm kiếm, thu thập và so sánh báo giá
-- Phối hợp đánh giá và đề xuất lựa chọn
-- Không trực tiếp tham gia hoặc không nắm rõ quy trình
-
-## Phần 4. Kinh nghiệm chọn quà tặng cho nhân viên
-
-### Câu 5. Trong 12 tháng qua, doanh nghiệp chủ yếu sử dụng hình thức nào để tặng hoặc ghi nhận nhân viên?
+### Câu 3. Doanh nghiệp của Anh/Chị hiện tại có quy mô bao nhiêu nhân sự?
 
 *Chọn một · Bắt buộc*
 
-- Tiền thưởng hoặc hình thức thưởng bằng tiền
-- Voucher / Phiếu mua hàng
-- Giỏ quà, thực phẩm hoặc sản phẩm tiêu dùng
-- Đồ dùng cá nhân hoặc văn phòng
-- Quà lưu niệm hoặc sản phẩm thiết kế riêng
-- Sản phẩm công nghệ hoặc phụ kiện điện tử
-- Không thực hiện hoạt động tặng quà trong thời gian này
-- Không rõ
-- Khác (người trả lời tự nhập)
+- Dưới 10 người.
+- 10 - 49 người.
+- 50 - 99 người.
+- 100 - 199 người.
+- Từ 200 người trở lên.
+- Không rõ.
 
-### Câu 6. Khó khăn lớn nhất doanh nghiệp từng gặp khi chuẩn bị quà tặng nhân viên là gì?
+### Câu 4. Trụ sở hoặc cơ sở kinh doanh chính của doanh nghiệp Anh/Chị thuộc khu vực nào?
 
 *Chọn một · Bắt buộc*
 
-- Khó chọn món quà phù hợp nhiều nhân viên
-- Khó cân đối ngân sách
-- Thiếu mẫu quà khác biệt
-- Khó đánh giá chất lượng trước khi đặt hàng
-- Khó tìm nhà cung cấp giao đúng hạn
-- Quy trình báo giá, hợp đồng hoặc hóa đơn phức tạp
-- Không gặp khó khăn đáng kể
-- Khác (người trả lời tự nhập)
+- Miền Bắc.
+- Miền Trung và Tây Nguyên.
+- Miền Nam.
 
-### Câu 7. Khi lựa chọn nhà cung cấp quà tặng, hai yếu tố nào quan trọng nhất?
-
-*Chọn nhiều · Bắt buộc*
-
-**Giới hạn:** chọn tối đa 2 phương án (thông báo lỗi: "Vui lòng chọn tối đa 2 phương án.")
-
-- Giá và tổng chi phí
-- Chất lượng, độ hoàn thiện sản phẩm
-- Khả năng thiết kế theo yêu cầu
-- Thời gian sản xuất và giao hàng
-- Uy tín, hậu mãi và xử lý sản phẩm lỗi
-- Năng lực đáp ứng số lượng
-- Hợp đồng, hóa đơn và điều kiện thanh toán
-- Khác (người trả lời tự nhập)
-
-### Câu 8. Khi cần tìm nhà cung cấp quà tặng mới, Anh/Chị thường bắt đầu từ kênh nào?
+### Câu 5. Anh/Chị có tham gia hoặc có thể tham gia vào việc đề xuất, lựa chọn, đặt mua hay phê duyệt quà tặng khách hàng tại doanh nghiệp không?
 
 *Chọn một · Bắt buộc*
 
-- Google Search
-- Facebook
-- TikTok
-- Đối tác hoặc người quen giới thiệu
-- Hội nhóm / Mạng lưới doanh nghiệp
-- Sàn thương mại điện tử
-- Thường sử dụng nhà cung cấp cũ
-- Tùy chọn 8 ⚠ _(phương án mặc định chưa đặt tên)_
-- Khác (người trả lời tự nhập)
+- Có tham gia quyết định hoặc phê duyệt.
+- Trực tiếp phụ trách tìm kiếm nhà cung cấp và đặt quà.
+- Tham gia đề xuất, đánh giá hoặc lựa chọn quà.
+- Chưa từng tham gia, nhưng sẽ hoặc có thể phụ trách khi doanh nghiệp phát sinh nhu cầu.
+- Không tham gia, không nắm rõ thông tin.
 
-### Câu 9. Doanh nghiệp hiện đang ở giai đoạn nào trong việc chuẩn bị quà tặng nhân viên cuối năm 2026?
+> Chọn đáp án cuối cùng → kết thúc khảo sát.
 
-*Chọn một · Bắt buộc*
+## PHẦN 1: THÔNG TIN VÀ SÀNG LỌC (tiếp)
 
-- Đang tìm kiếm ý tưởng, sản phẩm hoặc nhà cung cấp
-- Đã có kế hoạch nhưng chưa lựa chọn sản phẩm
-- Đã lựa chọn sản phẩm hoặc hoàn tất đặt hàng
-- Chưa có kế hoạch cụ thể
-- Không có kế hoạch tặng quà cuối năm
-
-## Phần 5. Kế hoạch quà tặng cuối năm của doanh nghiệp
-
-### Câu 10. Mục đích quan trọng nhất khi doanh nghiệp chuẩn bị quà tặng cuối năm 2026 là gì?
+### Câu 6. Tình trạng triển khai quà tặng khách hàng của doanh nghiệp Anh/Chị hiện tại là gì?
 
 *Chọn một · Bắt buộc*
 
-- Tri ân và ghi nhận đóng góp của nhân viên
-- Duy trì phúc lợi theo chính sách công ty
-- Tạo không khí gắn kết nội bộ
-- Ghi nhận thành tích của cá nhân hoặc nhóm
-- Đánh dấu một cột mốc doanh nghiệp
-- Tùy chọn 6 ⚠ _(phương án mặc định chưa đặt tên)_
-- Khác (người trả lời tự nhập)
+- Đã từng tặng quà và tôi nắm được thông tin về ít nhất một đợt.
+- Đã từng tặng quà nhưng tôi không nắm được thông tin cụ thể.
+- Đã cân nhắc nhưng chưa từng triển khai.
+- Chưa từng cân nhắc việc tặng quà khách hàng.
+- Không rõ doanh nghiệp đã triển khai hay chưa.
 
-### Câu 11. Doanh nghiệp dự kiến chuẩn bị bao nhiêu suất quà?
+> Chọn đáp án cuối cùng → kết thúc khảo sát.
 
-*Chọn một · Bắt buộc*
+## PHẦN 2: HÀNH VI TẶNG QUÀ KHÁCH HÀNG
 
-- Dưới 20 suất
-- 20–49 suất
-- 50–99 suất
-- 100–299 suất
-- 300–499 suất
-- Từ 500 suất trở lên
-- Chưa xác định
+*Từ câu 7 đến câu 11, Anh/Chị vui lòng trả lời theo đợt tặng quà gần nhất mà Anh/Chị nắm được thông tin.*
 
-### Câu 12. Ngân sách dự kiến cho mỗi suất quà là bao nhiêu?
+### Câu 7. Lần gần nhất doanh nghiệp tặng quà cho khách hàng là khi nào và cho dịp gì?
 
 *Chọn một · Bắt buộc*
 
-- Dưới 100.000 đồng
-- Từ 100.000 đến dưới 200.000 đồng
-- Từ 200.000 đến dưới 350.000 đồng
-- Từ 350.000 đến dưới 500.000 đồng
-- Từ 500.000 đồng trở lên
-- Chưa xác định ngân sách
-- Không tiện chia sẻ
+- Lễ, Tết.
+- Hội nghị/Hội thảo/Triển lãm/Sự kiện.
+- Khai trương/Ra mắt sản phẩm hoặc dịch vụ.
+- Kỷ niệm thành lập doanh nghiệp/thương hiệu.
+- Cảm ơn sau khi khách hàng mua hàng hoặc ký hợp đồng.
+- Chăm sóc khách hàng thân thiết/VIP.
+- Chương trình khuyến mại/Thúc đẩy mua hàng.
+- Sinh nhật hoặc cột mốc riêng của khách hàng.
+- Khác: …
 
-### Câu 13. Yếu tố nào hiện khiến doanh nghiệp khó đưa ra quyết định nhất?
-
-*Chọn một · Bắt buộc*
-
-- Chưa tìm được ý tưởng phù hợp người nhận
-- Ngân sách chưa được xác định hoặc phê duyệt
-- Khó đánh giá chất lượng mẫu thực tế
-- Chưa tìm được nhà cung cấp phù hợp
-- Lo ngại tiến độ sản xuất hoặc giao hàng
-- Cần thống nhất ý kiến giữa nhiều bộ phận
-- Tùy chọn 7 ⚠ _(phương án mặc định chưa đặt tên)_
-- Khác (người trả lời tự nhập)
-
-### Câu 14. Doanh nghiệp dự kiến cần nhận quà vào thời điểm nào?
+### Câu 8. Mục tiêu chính của đợt tặng quà đó là gì?
 
 *Chọn một · Bắt buộc*
 
-- Trước 16/11/2026
-- Từ 16/11 đến 15/12/2026
-- Từ 16/12 đến 31/12/2026
-- Sau 31/12/2026
-- Chưa xác định
+- Giúp khách hàng biết đến hoặc ghi nhớ thương hiệu.
+- Thu hút khách hàng ghé gian hàng/tham gia hoạt động.
+- Khuyến khích mua hàng hoặc dùng thử.
+- Cảm ơn và duy trì quan hệ với khách hàng.
+- Khuyến khích khách hàng quay lại mua.
+- Khuyến khích khách hàng chia sẻ hoặc giới thiệu thương hiệu.
+- Không rõ.
+- Khác: …
 
-## Phần 5. Về món quà doanh nghiệp đã lựa chọn
+### Câu 9. Doanh nghiệp đã chọn những loại quà nào trong đợt tặng quà trên?
 
-### Câu 15. Doanh nghiệp đã lựa chọn hình thức quà tặng chủ yếu nào cho cuối năm 2026?
+*Chọn nhiều (tối đa 3) · Bắt buộc*
 
-*Chọn một · Bắt buộc*
+- Sản phẩm của doanh nghiệp/Sản phẩm dùng thử.
+- Voucher/Phiếu quà tặng/Phiếu giảm giá.
+- Thực phẩm/Đồ uống/Giỏ quà.
+- Móc khóa/Huy hiệu/Phụ kiện nhỏ.
+- Bút/Sổ tay/Lịch.
+- Bình nước/Ly/Cốc.
+- Túi/Áo/Mũ/Ô.
+- Đồ dùng nhỏ để bàn hoặc trang trí.
+- Mascot/Mô hình/Đồ sưu tầm.
+- Quà tặng công nghệ.
+- Khác: …
 
-- Tiền thưởng
-- Voucher / Phiếu mua hàng
-- Giỏ quà hoặc sản phẩm tiêu dùng
-- Đồ dùng cá nhân hoặc văn phòng
-- Quà lưu niệm hoặc sản phẩm thiết kế riêng
-- Sản phẩm công nghệ
-- Không rõ
-- Khác (người trả lời tự nhập)
-
-### Câu 16. Lý do quan trọng nhất khiến phương án đó được lựa chọn là gì?
-
-*Chọn một · Bắt buộc*
-
-- Phù hợp ngân sách
-- Phù hợp với đa số nhân viên
-- Đáp ứng thời gian giao hàng
-- Chất lượng đã được kiểm chứng
-- Quy trình đặt hàng đơn giản
-- Có ý nghĩa đối với người nhận
-- Nhà cung cấp quen thuộc, ít rủi ro
-- Theo quyết định hoặc chính sách nội bộ
-- Khác (người trả lời tự nhập)
-
-### Câu 17. Trong quá trình lựa chọn, điều gì từng chưa đáp ứng kỳ vọng của doanh nghiệp?
+### Câu 10. Doanh nghiệp đã chuẩn bị khoảng bao nhiêu phần quà trong đợt đó?
 
 *Chọn một · Bắt buộc*
 
-- Khó tìm mẫu quà khác biệt
-- Giá chưa tương xứng chất lượng
-- Khó cá nhân hóa sản phẩm
-- Quy trình đặt hàng còn phức tạp
-- Thời gian giao hàng chưa phù hợp
-- Chưa có đủ bằng chứng về chất lượng
-- Không gặp vấn đề đáng kể
-- Không nắm rõ quá trình lựa chọn
-- Khác (người trả lời tự nhập)
+- Dưới 30 phần.
+- 30 - 49 phần.
+- 50 - 99 phần.
+- 100 - 299 phần.
+- 300 - 499 phần.
+- Từ 500 phần trở lên.
+- Không rõ.
 
-### Câu 18. Ngoài dịp cuối năm, hoạt động nào từng có nhu cầu quà tặng cho nhân viên nhiều nhất?
+### Câu 11. Chi phí trung bình cho một phần quà trong đợt đó khoảng bao nhiêu?
 
 *Chọn một · Bắt buộc*
 
-- Vinh danh nhân viên xuất sắc
-- Ghi nhận thâm niên
-- Chào mừng nhân viên mới
-- Sinh nhật nhân viên
-- Kỷ niệm thành lập doanh nghiệp
-- Sự kiện hoặc chương trình nội bộ
-- Không có hoạt động phù hợp
-- Không rõ
-- Khác (người trả lời tự nhập)
+*Một phần quà là toàn bộ quà dành cho một người nhận. Tính cả sản phẩm, tùy chỉnh và bao bì; chưa tính vận chuyển.*
 
-## Phần 5. Cách doanh nghiệp ghi nhận nhân viên
+- Dưới 30.000 đồng.
+- Từ 30.000 đến dưới 50.000 đồng.
+- Từ 50.000 đến dưới 100.000 đồng.
+- Từ 100.000 đến dưới 200.000 đồng.
+- Từ 200.000 đến dưới 300.000 đồng.
+- Từ 300.000 đến dưới 500.000 đồng.
+- Từ 500.000 đồng trở lên.
+- Không nhớ/Không rõ.
 
-### Câu 19. Lý do chính khiến doanh nghiệp chưa có kế hoạch tặng quà cuối năm 2026 là gì?
-
-*Chọn một · Bắt buộc*
-
-- Chưa đến thời điểm lập kế hoạch
-- Chưa xác định hoặc phê duyệt ngân sách
-- Ưu tiên tiền thưởng hoặc phúc lợi khác
-- Chưa tìm được hình thức ghi nhận phù hợp
-- Hoạt động tặng quà không nằm trong chính sách công ty
-- Doanh nghiệp đang ưu tiên những hoạt động khác
-- Không rõ
-- Khác (người trả lời tự nhập)
-
-### Câu 20. Trong 12 tháng gần đây, hình thức nào được doanh nghiệp sử dụng nổi bật nhất để ghi nhận hoặc khích lệ nhân viên?
+### Câu 12. Trong 12 tháng tới, doanh nghiệp Anh/Chị có dự định tặng quà khách hàng không?
 
 *Chọn một · Bắt buộc*
 
-- Thưởng tiền hoặc tăng phúc lợi
-- Liên hoan hoặc hoạt động tập thể
-- Tuyên dương, giấy chứng nhận
-- Cúp, kỷ niệm chương hoặc vật phẩm lưu niệm
-- Thư cảm ơn hoặc thông điệp nội bộ
-- Không có hoạt động cụ thể
-- Tùy chọn 7 ⚠ _(phương án mặc định chưa đặt tên)_
-- Khác (người trả lời tự nhập)
+- Đã có kế hoạch cụ thể.
+- Có nhu cầu nhưng chưa có kế hoạch cụ thể.
+- Chỉ cân nhắc nếu có dịp hoặc phương án phù hợp.
+- Chưa xác định.
 
-### Câu 21. Ngoài dịp cuối năm, tình huống nào có khả năng phát sinh nhu cầu quà tặng hoặc vật phẩm ghi nhận tại doanh nghiệp?
+## PHẦN 3: CÁCH TÌM KIẾM VÀ QUYẾT ĐỊNH MUA
 
-*Chọn một · Bắt buộc*
+### Câu 13. Khi tìm nhà cung cấp quà tặng, Anh/Chị thường ưu tiên sử dụng những nguồn nào?
 
-- Vinh danh nhân viên đạt thành tích
-- Kỷ niệm thâm niên nhân viên
-- Kỷ niệm thành lập doanh nghiệp
-- Sự kiện hoặc hoạt động nội bộ
-- Chào đón nhân viên mới
-- Ghi nhận đóng góp của nhóm hoặc bộ phận
-- Hiện không có tình huống phù hợp
-- Tùy chọn 8 ⚠ _(phương án mặc định chưa đặt tên)_
-- Khác (người trả lời tự nhập)
+*Chọn nhiều (tối đa 3) · Bắt buộc*
 
-### Câu 22. Điều kiện nào có khả năng khiến doanh nghiệp cân nhắc hình thức ghi nhận nhân viên mới?
+- Google, tìm kiếm trên Internet.
+- Facebook: fanpage, bài đăng hoặc hội nhóm.
+- TikTok.
+- Zalo.
+- YouTube.
+- Sàn thương mại điện tử.
+- Người quen/Đối tác/Đồng nghiệp giới thiệu.
+- Nhà cung cấp đã từng hợp tác.
+- Nhà cung cấp chủ động liên hệ.
+- Hội chợ/Triển lãm/Sự kiện kết nối doanh nghiệp.
+- Chưa biết tìm ở đâu.
+- Khác: …
 
-*Chọn một · Bắt buộc*
+### Câu 14. Trước khi liên hệ nhà cung cấp, Anh/Chị muốn xem những thông tin nào nhất?
 
-- Có sự kiện hoặc nhu cầu cụ thể
-- Có ngân sách được phê duyệt
-- Có phương án phù hợp với người nhận
-- Có nhà cung cấp đáp ứng chất lượng và tiến độ
-- Có đề xuất được người có thẩm quyền thông qua
-- Doanh nghiệp hiện không có ý định xem xét thay đổi
-- Tùy chọn 7 ⚠ _(phương án mặc định chưa đặt tên)_
-- Khác (người trả lời tự nhập)
+*Chọn nhiều (tối đa 3) · Bắt buộc*
 
-## Phần 6. Quà tặng mang dấu ấn riêng của doanh nghiệp
+- Ảnh/video sản phẩm thực tế.
+- Mẫu quà phù hợp với ngành nghề hoặc dịp tặng.
+- Giá tham khảo theo số lượng.
+- Số lượng đặt tối thiểu.
+- Khả năng tùy chỉnh logo, màu sắc và hình dáng.
+- Thời gian thiết kế, sản xuất và giao hàng.
+- Đơn hàng đã thực hiện/Phản hồi khách hàng.
+- Thông tin vật liệu, độ bền và cách sử dụng.
+- Quy trình đặt hàng, thanh toán và xử lý lỗi.
+- Khác: …
 
-### Câu 23. Doanh nghiệp đã từng đặt quà tặng có logo hoặc thiết kế riêng chưa?
+### Câu 15. Ba tiêu chí quan trọng nhất khi doanh nghiệp Anh/Chị lựa chọn nhà cung cấp quà tặng là?
 
-*Chọn một · Bắt buộc*
+*Chọn nhiều (tối đa 3) · Bắt buộc*
 
-- Đã đặt nhiều lần
-- Đã đặt một lần
-- Chưa từng đặt nhưng đã tìm hiểu
-- Chưa từng tìm hiểu hoặc đặt loại quà này
-- Không rõ
+- Tổng chi phí phù hợp ngân sách.
+- Sản phẩm có chất lượng ổn định.
+- Đúng thời hạn cam kết.
+- Có mẫu phù hợp với hình ảnh thương hiệu.
+- Có khả năng thiết kế và tùy chỉnh.
+- Nhận số lượng ít.
+- Tư vấn rõ ràng, phản hồi nhanh.
+- Có mẫu thử hoặc cách kiểm tra chất lượng trước khi sản xuất.
+- Có hóa đơn, hợp đồng và chứng từ theo yêu cầu.
+- Chính sách thanh toán phù hợp.
+- Chính sách xử lý sản phẩm lỗi rõ ràng.
+- Khác: …
 
-### Câu 24. Trước khi xem các ý tưởng bên dưới, mức độ quan tâm hiện tại của Anh/Chị đối với quà tặng thiết kế riêng cho nhân viên như thế nào?
-
-*Chọn một · Bắt buộc*
-
-- Đang có nhu cầu tìm hiểu hoặc lựa chọn
-- Có quan tâm nhưng chưa có nhu cầu cụ thể
-- Chưa từng cân nhắc
-- Không quan tâm
-- Không đủ thông tin để đánh giá
-
-## Phần 7. Ý tưởng quà tặng in 3D
-
-_Quà tặng in 3D là vật phẩm được tạo hình từ mô hình kỹ thuật số và sản xuất bằng công nghệ in 3D. GU Decor 3D đang nghiên cứu các ứng dụng như móc khóa logo, mô hình để bàn và cúp ghi nhận thành tích. Giá, độ hoàn thiện và thời gian sản xuất phụ thuộc từng yêu cầu cụ thể._
-
-### Câu 25. Trong các ý tưởng sau, phương án nào đáng để doanh nghiệp tìm hiểu thêm nhất?
+### Câu 16. Ai là người thường có quyền phê duyệt cuối cùng đối với việc mua quà tặng trong doanh nghiệp?
 
 *Chọn một · Bắt buộc*
 
-- A. Móc khóa hoặc vật phẩm nhỏ có tên / biểu tượng công ty
-- B. Mô hình hoặc linh vật để bàn theo nhận diện doanh nghiệp
-- C. Cúp hoặc vật phẩm ghi nhận thành tích, thâm niên
-- D. Doanh nghiệp ưu tiên quà truyền thống hoặc hình thức phúc lợi khác
-- E. Không có phương án nào phù hợp
-- F. Chưa đủ thông tin để đánh giá
+- Chủ doanh nghiệp / Ban Giám đốc / Ban điều hành.
+- Trưởng phòng Hành chính / Nhân sự.
+- Trưởng phòng Marketing.
+- Trưởng phòng Mua hàng.
+- Trưởng bộ phận tổ chức sự kiện.
+- Tùy theo giá trị đơn hàng.
+- Không nắm rõ.
+- Khác: …
 
-### Câu 26. Điều gì khiến Anh/Chị còn băn khoăn nhất khi cân nhắc quà tặng in 3D?
-
-*Chọn một · Bắt buộc*
-
-- Chưa rõ mức giá
-- Chưa thấy chất lượng hoàn thiện thực tế
-- Lo ngại độ bền
-- Chưa biết có thể hiện đúng logo, màu sắc hoặc thiết kế không
-- Chưa rõ tiến độ hoặc khả năng đáp ứng số lượng
-- Chưa thấy phù hợp nhu cầu tặng quà
-- Tùy chọn 7 ⚠ _(phương án mặc định chưa đặt tên)_
-- Khác (người trả lời tự nhập)
-
-### Câu 27. Thông tin hoặc bằng chứng nào hữu ích nhất để đánh giá phương án này?
+### Câu 17. Trong đợt đặt quà gần nhất, doanh nghiệp đã tìm hiểu bao nhiêu nhà cung cấp trước khi quyết định chọn?
 
 *Chọn một · Bắt buộc*
 
-- Hình ảnh, video sản phẩm thật
-- Được xem hoặc kiểm tra mẫu thực tế
-- Báo giá theo một cấu hình cụ thể
-- Quy trình thiết kế và duyệt mẫu
-- Thông tin chất liệu, độ bền và bảo quản
-- Quy trình đặt hàng, tiến độ và giao hàng
-- Tùy chọn 7 ⚠ _(phương án mặc định chưa đặt tên)_
-- Khác (người trả lời tự nhập)
+- Chỉ 1 nhà cung cấp.
+- 2 - 3 nhà cung cấp.
+- Từ 4 nhà cung cấp trở lên.
+- Không rõ.
 
-### Câu 28. Nếu tiện, Anh/Chị có thể chia sẻ một tình huống thực tế khiến việc chọn quà tặng hoặc nhà cung cấp trở nên khó khăn không?
-
-*Trả lời tự do · Không bắt buộc*
-
-_(ô nhập văn bản, không có phương án sẵn)_
-
-### Câu 29. Sau khi hoàn thành khảo sát, Anh/Chị muốn tiếp tục theo hình thức nào?
+### Câu 18. Anh/Chị muốn liên hệ lần đầu với nhà cung cấp bằng cách nào?
 
 *Chọn một · Bắt buộc*
 
-- Muốn GU Decor 3D liên hệ tư vấn về một nhu cầu quà tặng cụ thể
-- Sẵn sàng tham gia phỏng vấn nghiên cứu sâu, không phải tư vấn bán hàng
-- Muốn tự xem thêm mẫu và thông tin, chưa cần liên hệ
-- Không có nhu cầu tiếp tục
+- Nhắn Zalo.
+- Nhắn Facebook Messenger.
+- Gọi điện trực tiếp.
+- Gửi Email.
+- Điền form yêu cầu tư vấn trên website.
+- Gặp trực tiếp.
+- Khác: …
 
-## Phần 8. Đăng ký nhận tư vấn
-
-_Thông tin dưới đây chỉ dùng để GU Decor 3D liên hệ phản hồi yêu cầu tư vấn của Anh/Chị. Thông báo xử lý dữ liệu cá nhân: [CHÈN ĐƯỜNG DẪN THÔNG BÁO QUYỀN RIÊNG TƯ]_
-
-### Câu 30. Họ và tên người muốn được tư vấn
-
-*Trả lời tự do · Bắt buộc*
-
-_(ô nhập văn bản, không có phương án sẵn)_
-
-### Câu 31. Tên doanh nghiệp
-
-*Trả lời tự do · Không bắt buộc*
-
-_(ô nhập văn bản, không có phương án sẵn)_
-
-### Câu 32. Số điện thoại / Zalo hoặc địa chỉ email để GU Decor 3D phản hồi
-
-*Trả lời tự do · Bắt buộc*
-
-_(ô nhập văn bản, không có phương án sẵn)_
-
-### Câu 33. Anh/Chị muốn được hỗ trợ nội dung nào?
+### Câu 19. Thông thường, doanh nghiệp cần bắt đầu tìm và đặt quà trước ngày sử dụng khoảng bao lâu?
 
 *Chọn một · Bắt buộc*
 
-- Tư vấn ý tưởng quà tặng doanh nghiệp
-- Tìm hiểu mẫu và quy trình sản xuất in 3D
-- Nhận báo giá theo thiết kế, số lượng và thời hạn
-- Trao đổi điều kiện dựng mẫu thiết kế 3D miễn phí
-- Nội dung khác
+- Dưới 1 tuần.
+- Từ 1 đến dưới 2 tuần.
+- Từ 2 đến dưới 4 tuần.
+- Từ 4 đến dưới 8 tuần.
+- Từ 8 tuần trở lên.
+- Tùy chương trình, chưa xác định được.
 
-### Câu 34. Xác nhận đồng ý cho GU Decor 3D liên hệ về yêu cầu tư vấn
+## PHẦN 4: KHÓ KHĂN VÀ NHU CẦU CHƯA ĐƯỢC ĐÁP ỨNG
 
-*Chọn nhiều · Không bắt buộc*
+### Câu 20. Những yếu tố nào đang khiến doanh nghiệp khó triển khai hoặc mở rộng việc tặng quà khách hàng?
 
-> Tôi đã đọc thông báo xử lý dữ liệu cá nhân và đồng ý để GU Decor 3D dùng thông tin trên nhằm liên hệ phản hồi yêu cầu tư vấn này.
+*Chọn nhiều (tối đa 3) · Bắt buộc*
 
-- Tôi đồng ý
+- Ngân sách dành cho quà tặng còn hạn chế.
+- Số lượng đặt tối thiểu cao hơn nhu cầu.
+- Chưa có dịp hoặc chương trình phù hợp.
+- Chưa thấy rõ lợi ích so với các hoạt động marketing khác.
+- Chưa tìm được món quà phù hợp với khách hàng.
+- Thiếu người hoặc thời gian phụ trách.
+- Chưa tìm được nhà cung cấp đáng tin cậy.
+- Chưa có trở ngại đáng kể.
+- Khác: …
 
-## Phần 8. Đăng ký tham gia trò chuyện chuyên sâu
+### Câu 21. Khi tìm hiểu hoặc làm việc với nhà cung cấp quà tặng, Anh/Chị đã gặp vấn đề nào?
 
-_Buổi phỏng vấn nghiên cứu dự kiến 25–40 phút, nhằm hiểu trải nghiệm mua và lựa chọn quà tặng. Không có yêu cầu mua hàng. Nếu đồng ý tham gia, GU Decor 3D sẽ liên hệ để thống nhất thời gian. Việc ghi âm (nếu có) sẽ được hỏi ý kiến riêng trước buổi phỏng vấn. Thông báo xử lý dữ liệu cá nhân: [CHÈN ĐƯỜNG DẪN THÔNG BÁO QUYỀN RIÊNG TƯ]_
+*Chọn nhiều (tối đa 3) · Bắt buộc*
 
-### Câu 35. Họ và tên người đăng ký phỏng vấn
+- Giá báo ban đầu chưa thể hiện đầy đủ các khoản phí.
+- Phí thiết kế/tùy chỉnh cao.
+- Mẫu ít khác biệt hoặc khó tùy chỉnh.
+- Khó đánh giá chất lượng trước khi đặt.
+- Sản phẩm thực tế khác mẫu hoặc chất lượng không đồng đều.
+- Giao chậm hoặc không nhận đơn có thời hạn gấp.
+- Tư vấn chậm, trao đổi nhiều lần vẫn chưa rõ.
+- Chính sách xử lý lỗi chưa phù hợp.
+- Chưa gặp vấn đề đáng kể.
+- Chưa từng tìm hiểu hoặc làm việc với nhà cung cấp.
+- Khác: …
 
-*Trả lời tự do · Bắt buộc*
+### Câu 22. Khía cạnh nào của món quà khiến doanh nghiệp khó đạt mục tiêu nhận diện thương hiệu?
 
-_(ô nhập văn bản, không có phương án sẵn)_
+*Chọn nhiều (tối đa 2) · Bắt buộc*
 
-### Câu 36. Số điện thoại / Zalo hoặc email để liên hệ hẹn lịch
+- Khách hàng ít sử dụng hoặc không giữ lại quà.
+- Logo/tên thương hiệu khó nhận ra.
+- Mẫu quà giống nhiều thương hiệu khác.
+- Món quà chưa liên quan đến sản phẩm/dịch vụ của doanh nghiệp.
+- Thiết kế chưa phù hợp hình ảnh thương hiệu.
+- Chưa có cách theo dõi hiệu quả.
+- Chưa gặp khó khăn này.
+- Chưa triển khai nên chưa đánh giá được.
+- Khác: …
 
-*Trả lời tự do · Bắt buộc*
+### Câu 23. Những hỗ trợ nào sẽ giúp doanh nghiệp dễ triển khai một đơn quà tặng hơn?
 
-_(ô nhập văn bản, không có phương án sẵn)_
+*Chọn nhiều (tối đa 3) · Bắt buộc*
 
-### Câu 37. Thời điểm nào thường thuận tiện để trao đổi?
+- Nhận đơn số lượng nhỏ.
+- Có nhiều lựa chọn theo từng mức ngân sách.
+- Báo giá rõ tổng chi phí ngay từ đầu.
+- Tư vấn chọn quà theo khách hàng và mục tiêu chương trình.
+- Có mẫu sẵn để giảm thời gian và chi phí thiết kế.
+- Có bản minh họa gắn nhận diện thương hiệu trước khi đặt.
+- Có thể đặt mẫu thử với chi phí được thông báo rõ.
+- Công bố rõ thời gian sản xuất và giao hàng.
+- Có điều khoản thanh toán và xử lý lỗi rõ ràng.
+- Khác: …
 
-*Chọn một · Không bắt buộc*
+### Thông tin tham khảo cho câu 24 đến câu 33
 
-- Buổi sáng trong ngày làm việc
-- Buổi chiều trong ngày làm việc
-- Sau giờ làm việc
-- Thời gian khác / Cần trao đổi thêm
+Quà tặng in 3D có thể gồm móc khóa, mascot/nhân vật đại diện thương hiệu, mô hình nhỏ và đồ dùng để bàn. Sản phẩm có thể tùy chỉnh hình dáng, logo, màu sắc và chi tiết tùy thiết kế.
 
-### Câu 38. Xác nhận đồng ý liên hệ nhằm tổ chức phỏng vấn nghiên cứu
+Bề mặt sản phẩm có thể thấy vân lớp in. Giá và thời gian sản xuất phụ thuộc vào thiết kế, kích thước, vật liệu, màu sắc và số lượng.
 
-*Chọn nhiều · Không bắt buộc*
+### Câu 24. Với thông tin trên, Anh/Chị còn băn khoăn điều gì về quà tặng in 3D?
 
-> Tôi đã đọc thông báo xử lý dữ liệu cá nhân và đồng ý để GU Decor 3D liên hệ sắp xếp một buổi phỏng vấn nghiên cứu tự nguyện.
+*Chọn nhiều (tối đa 3) · Bắt buộc*
 
-- Tôi đồng ý
+- Chưa hình dung rõ sản phẩm thực tế.
+- Vân lớp in có thể chưa phù hợp kỳ vọng thẩm mỹ.
+- Chưa rõ độ bền và cách bảo quản.
+- Chưa rõ vật liệu có phù hợp với mục đích sử dụng không.
+- Chưa biết có phù hợp hình ảnh thương hiệu không.
+- Chưa biết khách hàng có muốn sử dụng hoặc giữ lại không.
+- Lo tổng chi phí vượt ngân sách.
+- Lo thời gian sản xuất hoặc chất lượng khi đặt nhiều.
+- Không có băn khoăn đáng kể.
+- Khác: …
 
+### Câu 25. Nếu cần tìm hiểu quà tặng in 3D, nội dung nào sẽ hữu ích nhất với Anh/Chị?
+
+*Chọn nhiều (tối đa 3) · Bắt buộc*
+
+- Video cận cảnh sản phẩm và bề mặt thực tế.
+- Ảnh/video minh họa sản phẩm trong tình huống sử dụng.
+- Ví dụ biến logo/mascot thành món quà.
+- Gợi ý quà theo ngân sách và số lượng.
+- Gợi ý quà theo ngành nghề hoặc dịp tặng.
+- Video quy trình sản xuất và kiểm tra chất lượng.
+- So sánh các lựa chọn về công dụng, chi phí và thời gian.
+- Trường hợp doanh nghiệp đã sử dụng và phản hồi thực tế.
+- Khác: …
+
+## PHẦN 5: KHẢ NĂNG MUA VÀ MONG MUỐN TRONG TƯƠNG LAI
+
+### Câu 26. Nếu cân nhắc quà tặng in 3D, thời điểm sớm nhất doanh nghiệp có thể phát sinh nhu cầu là khi nào?
+
+*Chọn một · Bắt buộc*
+
+- Trong 3 tháng tới.
+- Từ trên 3 đến 6 tháng tới.
+- Từ trên 6 đến 12 tháng tới.
+- Có thể cân nhắc nhưng chưa xác định thời điểm.
+
+### Câu 27. Nhóm sản phẩm in 3D nào doanh nghiệp muốn ưu tiên xem mẫu trước tiên?
+
+*Chọn một · Bắt buộc*
+
+*Nếu chọn "Mục khác", vui lòng ghi rõ mẫu muốn xem.*
+
+- Móc khóa theo logo hoặc hình dáng riêng.
+- Mascot/Nhân vật đại diện thương hiệu.
+- Mô hình thu nhỏ sản phẩm hoặc biểu tượng đặc trưng của doanh nghiệp.
+- Mô hình sưu tầm theo chủ đề chiến dịch.
+- Đồ dùng nhỏ để bàn: giá đỡ điện thoại, ống cắm bút…
+- Chưa đủ thông tin để chọn.
+- Khác: …
+
+### Câu 28. Nếu đặt quà in 3D, doanh nghiệp muốn thể hiện thương hiệu theo cách nào nhất?
+
+*Chọn một · Bắt buộc*
+
+- Thêm tên/logo lên mẫu có sẵn.
+- Phối màu mẫu có sẵn theo nhận diện thương hiệu.
+- Thiết kế hình dáng riêng theo logo, mascot hoặc sản phẩm đặc trưng.
+- Giữ sản phẩm không có logo, thể hiện thương hiệu trên bao bì/thẻ quà.
+- Cần được tư vấn trước khi lựa chọn.
+
+### Câu 29. Với đơn quà tặng in 3D đầu tiên, doanh nghiệp có thể cân nhắc đặt khoảng bao nhiêu sản phẩm?
+
+*Chọn một · Bắt buộc*
+
+- Dưới 30 sản phẩm.
+- 30–49 sản phẩm.
+- 50–99 sản phẩm.
+- 100–299 sản phẩm.
+- Từ 300 sản phẩm trở lên.
+- Cần xem mẫu và giá trước khi xác định.
+
+### Câu 30. Tổng ngân sách doanh nghiệp có thể cân nhắc cho đơn quà tặng in 3D đầu tiên là bao nhiêu?
+
+*Chọn nhiều (tối đa 3) · Bắt buộc*
+
+- Dưới 1 triệu đồng.
+- Từ 1 đến dưới 3 triệu đồng.
+- Từ 3 đến dưới 5 triệu đồng.
+- Từ 5 đến dưới 10 triệu đồng.
+- Từ 10 đến dưới 20 triệu đồng.
+- Từ 20 triệu đồng trở lên.
+- Cần xem phương án cụ thể mới xác định được.
+
+### Câu 31. Nếu cần làm mẫu riêng trước khi sản xuất, doanh nghiệp có thể cân nhắc phương án nào dưới đây?
+
+*Chọn một · Bắt buộc*
+
+- Chỉ xem bản thiết kế minh họa, chưa cần mẫu vật lý.
+- Trả phí làm mẫu riêng nếu chi phí được thông báo trước.
+- Trả phí làm mẫu nếu khoản phí được khấu trừ khi đặt đơn hàng.
+- Chỉ cân nhắc khi được cung cấp mẫu vật lý miễn phí.
+- Cần biết mức phí cụ thể mới quyết định được.
+
+### Câu 32. Trước khi đặt sản xuất toàn bộ số lượng, doanh nghiệp muốn kiểm tra sản phẩm theo cách nào nhất?
+
+*Chọn một · Bắt buộc*
+
+- Xem ảnh/video mẫu thực tế.
+- Xem và cầm mẫu vật lý trước khi quyết định.
+- Đặt một lô nhỏ để kiểm tra trước khi đặt tiếp.
+- Duyệt bản thiết kế và thông số, không cần kiểm tra mẫu thực tế.
+- Chưa xác định.
+
+### Câu 33. Trong 3 tháng tới, bước xa nhất doanh nghiệp có khả năng thực hiện với quà tặng in 3D là gì?
+
+*Chọn một · Bắt buộc*
+
+- Xem thêm mẫu và thông tin.
+- Liên hệ tư vấn hoặc yêu cầu báo giá.
+- Đặt mẫu thử có trả phí nếu điều kiện phù hợp.
+- Đặt đơn hàng nếu mẫu, giá và điều kiện đáp ứng yêu cầu.
+- Chưa xác định.
