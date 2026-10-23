@@ -10,9 +10,9 @@
  * LƯU Ý: Script XÓA HẾT câu hỏi đang có trong Form rồi tạo lại. Nếu Form đã có câu trả lời,
  * hãy tải bảng câu trả lời về (hoặc tạo bản sao Form) trước khi chạy.
  *
- * Nếu chạy script độc lập (không mở từ Form), dán link Form vào FORM_URL.
+ * Có thể chạy từ chính Form hoặc từ script.google.com (script mở Form qua FORM_URL).
  */
-const FORM_URL = '';
+const FORM_URL = 'https://docs.google.com/forms/d/1nXt4ABnho9cUh0ZpJK3QYpybfTdjcUCKAps9I16HV9U/edit';
 
 const TIEU_DE = 'Khảo sát nhu cầu và hành vi lựa chọn quà tặng khách hàng của doanh nghiệp';
 const MO_TA = 'GU Decor 3D thực hiện khảo sát nhằm tìm hiểu cách doanh nghiệp lựa chọn quà tặng khách hàng. ' +
